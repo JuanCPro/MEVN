@@ -1,5 +1,5 @@
 # MEVN
-En este repositorio encontraran 2 carpetas sistema y sistema/vue. 
+En este repositorio encontrarán 2 carpetas sistema y sistema/vue. 
 Dentro de sistema se encuentra la parte del Back-end y en sistema vue la parte del front-end
 #sistema
 - Controllers: Los controladores de los modelos
