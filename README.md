@@ -19,14 +19,18 @@ Los más interesante, es el uso de axios, vuerouter y vuex
 
 # Corriendo el proyecto
 Para correr el proyecto de lado del servidor, deberán hacer 
+```sh
 $ cd /sistema
 $ npm install 
 $ npm run dev
+```
 
 Para correr el proyecto de lado del cliente, deberán hacer 
+```sh
 $ cd /sistemavue
 $ npm install 
 $ npm run serve
+```
 
 # Nota
 Ignoren el material desing, así venía el tutorial xd
