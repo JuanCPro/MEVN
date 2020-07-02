@@ -15,7 +15,7 @@ Dentro de sistema se encuentra la parte del Back-end y en sistema vue la parte d
 Los más interesante, es el uso de axios, vuerouter y vuex
 - Router.js: Se utilzia Vue-router
 - Store.js : Se utiliza Vuex
-- Dentro de la carpeta Components hay componentes que utilizan axios, precisamente el marte de metodos (En especial el login.vue)
+- Dentro de la carpeta Components hay componentes que utilizan axios, precisamente el la parte de "metods" (Prestarle atención especial al login.vue)
 
 # Corriendo el proyecto
 Para correr el proyecto de lado del servidor, deberán hacer 
